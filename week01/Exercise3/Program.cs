@@ -4,6 +4,30 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Exercise3 Project.");
+ 
+        Random randomGenerator = new Random();
+        int number = randomGenerator.Next(1, 101);
+
+        int guess = -1;
+
+        while (guess != number)
+        {
+            Console.Write("What is your guess? ");
+            guess = int.Parse(Console.ReadLine());
+
+            if (number > guess)
+            {
+                Console.WriteLine("It's higher");
+            }
+            else if (number < guess)
+            {
+                Console.WriteLine("It's lower");
+            }
+            else
+            {
+                Console.WriteLine("You got it!");
+            }
+
+        }                    
     }
 }
