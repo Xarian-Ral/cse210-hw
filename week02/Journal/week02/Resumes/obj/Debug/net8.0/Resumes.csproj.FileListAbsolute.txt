@@ -1,0 +1,14 @@
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\bin\Debug\net8.0\Resumes.exe
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\bin\Debug\net8.0\Resumes.deps.json
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\bin\Debug\net8.0\Resumes.runtimeconfig.json
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\bin\Debug\net8.0\Resumes.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\bin\Debug\net8.0\Resumes.pdb
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfoInputs.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.AssemblyInfo.cs
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.csproj.CoreCompileInputs.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\refint\Resumes.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.pdb
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\Resumes.genruntimeconfig.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week02\Resumes\obj\Debug\net8.0\ref\Resumes.dll
