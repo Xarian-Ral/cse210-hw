@@ -1,0 +1,14 @@
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Progamming Files\CSE230\cse210-hw-main\cse210-hw-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll
