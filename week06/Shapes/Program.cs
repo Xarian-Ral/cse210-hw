@@ -1,9 +1,22 @@
-using System;
-
-class Program
+public abstract class Shape
 {
-    static void Main(string[] args)
+    private string _color;
+
+    public Shape(string string_color)
     {
-        Console.WriteLine("Hello World! This is the Shapes Project.");
+        _color = color;
+
     }
+
+    public string GetColor()
+    {
+        return _color;
+    }
+
+    public void SetColor(string color)
+    {
+        _color = color;
+    }
+
+    public abstract double GetArea();
 }
